@@ -132,7 +132,7 @@ Este projeto evidencia a importância de processos bem definidos e regras claras
 Joziane Oliveira  
 Analista de Sistemas / Implantação
 
-🔗 LinkedIn  
-💻 GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/joziane-oliveira/ 
+💻 GitHub: https://github.com/JozianeOliveira
 
 ⚠️ Observação: Projeto de estudo e portfólio, baseado em cenário fictício, sem uso de dados reais ou informações confidenciais.
